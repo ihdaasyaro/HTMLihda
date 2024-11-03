@@ -1,0 +1,41 @@
+* {
+    font-family: 'Courier New';
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+body {
+    background-image: url("/LATIHAN/images/jefri.jpg");
+    background-position : center;
+}
+h1 {
+    background-color: blanchedalmond; 
+}
+p { background-color: antiquewhite;
+
+}
+h2 {background-color: burlywood;
+}
+
+h1, h2, p { text-align: justify;
+    
+}
+
+div {
+    padding: 20px;
+    height: 399px;
+    background-color: rgba( 300, 300, 300, 0,9 );
+    margin: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    
+}    
+.border {
+    border-style: dashed;
+    border-color: brown;
+    border-radius: 10px;
+
+}
